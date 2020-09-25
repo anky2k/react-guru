@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# testing
+coverage
+jest-test-results.json
+junit.xml
+
+# docs
+docs
+
+# production
+build
+dist
+
+# misc
+.DS_Store
+npm-debug.log*
+
